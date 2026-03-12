@@ -1,0 +1,22 @@
+userName: 
+accessKey: 
+projectName: BrowserStack Samples pytest robot
+buildName: browserstack build pytest robot
+buildIdentifier: '#${BUILD_NUMBER}' 
+
+platforms:
+  - deviceName: Samsung Galaxy S22 Ultra
+    browserName: chrome 
+    osVersion: 12.0
+  - deviceName: iPhone 15
+    osVersion: 26
+    browserName: safari
+    deviceOrientation: portrait  
+
+parallelsPerPlatform: 1
+browserstackLocal: false 
+source: robot-browserstack:sample-sdk:v1.0
+debug: false 
+networkLogs: false
+consoleLogs: errors 
+
