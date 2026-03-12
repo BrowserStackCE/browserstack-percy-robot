@@ -1,4 +1,4 @@
-# BrowserStack Integration with Robot Framework Selenium (Python)
+# BrowserStack Integration with Robot Framework Selenium (Python) and Percy on Automate
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780) 
 
