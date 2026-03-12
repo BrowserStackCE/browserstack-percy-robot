@@ -50,12 +50,7 @@ python3 should be installed
 * To run sample tests:
   - To run the sample tests in parallel across the platforms defined in the `browserstack.yml` file, run:
     ```
-    browserstack-sdk robot ./tests/test-*.robot
-    ```
-* To run tests on locally hosted websites:
-  - To run the local test in parallel across the platforms defined in the `browserstack.yml` file, run:
-    ```
-    browserstack-sdk robot ./tests/local-test.robot
+    browserstack-sdk robot ./tests/test-1.robot
     ```
 
 ## Percy visual testing (BrowserStack + Percy on Automate)
