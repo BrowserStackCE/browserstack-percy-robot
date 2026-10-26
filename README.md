@@ -1,6 +1,6 @@
 # BrowserStack Integration with Robot Framework Selenium (Python) and Percy on Automate
 
-![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780) 
+![BrowserStack Logo](https://www.browserstack.com/images/static/header-logo.jpg) 
 
 A minimal example repo showing how to run Robot Framework Selenium tests on **BrowserStack Automate**, with optional visual testing using **Percy (Percy on Automate)**.
 
